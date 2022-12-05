@@ -5,3 +5,5 @@
 - 🔭 I’m currently working on [TRACE-LAC/Epiverse Initiative](https://data.org/initiatives/epiverse/) at Colombia
 
 - 📫 How to reach me **jd.umana10@uniandes.edu.co**
+
+- I'm a researcher at @biomac-lab
